@@ -13,12 +13,14 @@ This Project “University Campus Placement Automation System” can help the pl
 2) Minimum RAM requirement – 4GB<br>
 3) Hard Disk – 100 GB<br>
 <br>
+
 <h2><b>Software Requirements</b></h2>
 1) Windows 7, 8 or 10<br>
 2) Text Editor or IDE for web designing<br>
 3) Xampp Server<br>
 4) Wordpress 5<br>
 <br>
+
 <h2><b>Technology Used</b></h2>
 1) MySQL<br>
 2) NoSql<br>
@@ -27,13 +29,18 @@ This Project “University Campus Placement Automation System” can help the pl
 5) phpMyAdmin<br>
 6) Wordpress<br>
 <br>
+
 <h2><b>Proposed Work</b></h2>
-<p>Our proposed system will work as one stop solution for all existing issues. All the tasks that are important and need to be performed efficiently are included in web application. Our system basically not only focuses on providing student eligibility list and calculation of data but also on providing students with all the materials needed for preparation at a single point. Role based access rights are provided to each user and each user has its own login tab where he/she can manage own personal information and all the work or content provided by the adjourned faculty. To prevent application from any kind of crashing cloud is used and all the data will be stored on cloud so that it can be accessed 24*7 from anywhere. Our system also makes sure that the user interface is user friendly so that neither the students nor the faculty has any problem understanding the concept of web application and has no complaint with navigation. The pages are linked in most suitable manner making it easy to jump from one page to another flawlessly. The proposed system is intended to avoid all the drawbacks of the existing system. It will add some more features than the existent system.
+<p>Our proposed system will work as one stop solution for all existing issues. All the tasks that are important and need to be performed efficiently are included in web application. Our system basically not only focuses on providing student eligibility list and calculation of data but also on providing students with all the materials needed for preparation at a single point. Role based access rights are provided to each user and each user has its own login tab where he/she can manage own personal information and all the work or content provided by the adjourned faculty. To prevent application from any kind of crashing cloud is used and all the data will be stored on cloud so that it can be accessed 24*7 from anywhere. 
+<br>
+<br>
+Our system also makes sure that the user interface is user friendly so that neither the students nor the faculty has any problem understanding the concept of web application and has no complaint with navigation. The pages are linked in most suitable manner making it easy to jump from one page to another flawlessly. The proposed system is intended to avoid all the drawbacks of the existing system. It will add some more features than the existent system.
 <br>
 <br>
 The proposed system is cost effective way of doing the manual process done in the existing system. This helps the organization to win the war in existing competitive world. The proposed system is college specific web application having access to entire college database which in turn will let TPO, student and HR communicate properly. Student id given to students is used as way to see the details and be updated
 with all upcoming events in the college. Also help the faculty with a system that will count the number of papers checked per day and reduce the efforts of entering the details manually.</p>
 <br>
+
 <h2><b>Proposed Enhancements</b></h2>
 <p>The system is designed after taking into consideration all the requirements of students and Placement and Training department but there can be improvements in some areas and we accept the drawbacks of our system. The system can be extended further to provide a forum for discussion where the alumni students and current students can discuss the events. In proposed Online Campus Placement System, it’s not providing the notifications of events. Hence, it can be modified and we can use APIs to get the email or SMS notifications as well. Apart from these in the future we can place the system on the cloud so the maintenance of the data can be reduced.
 <br>
